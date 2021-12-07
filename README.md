@@ -28,8 +28,8 @@ THEN I am again presented with current and future conditions for that city
 
 The following image shows the web application's appearance and functionality:
 
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.](./Assets/06-server-side-apis-homework-demo.png)
+![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.](./assets/06-server-side-apis-homework-demo.png)
 
 This layout is designed for desktop viewing, but optimized for mobile. 
 
-URL: 
+URL: https://ckishel.github.io/homework6_server_side_apis_weather_dashboard/
